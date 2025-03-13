@@ -32,6 +32,7 @@ We utilize the **MVTec Anomaly Detection Dataset** for evaluating anomaly detect
 🔗 [MVTec AD Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)  
 
 
+
 2️⃣ Install dependencies:  
 ```bash
  pip install -r requirements.txt
